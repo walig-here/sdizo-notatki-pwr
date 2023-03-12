@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.26 32-bit) (preloaded format=pdflatex 2022.11.7)  12 MAR 2023 11:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.26 32-bit) (preloaded format=pdflatex 2022.11.7)  12 MAR 2023 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./lab2.tex
-(lab2.tex
+**./ćw3.tex
+(ćw3.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-10-26>
 (C:\Users\Dawid\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -223,8 +223,8 @@ tex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count277
 \l__pdf_internal_box=\box56
-) (lab2.aux)
-\openout1 = `lab2.aux'.
+) (ćw3.aux)
+\openout1 = `ćw3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -268,135 +268,190 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-<fig1.png, id=1, 348.55219pt x 210.7875pt>
+<fig1.png, id=1, 368.1253pt x 131.74219pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 39.
-(pdftex.def)             Requested size: 284.52756pt x 172.07816pt.
+Package pdftex.def Info: fig1.png  used on input line 33.
+(pdftex.def)             Requested size: 398.33858pt x 142.56488pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 33--34
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
-LaTeX Font Info:    Trying to load font information for OML+plm on input line 4
-4.
+[1
+
+{C:/Users/Dawid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./fig1.png>]
+<fig2.png, id=10, 158.84344pt x 95.6072pt>
+File: fig2.png Graphic file (type png)
+<use fig2.png>
+Package pdftex.def Info: fig2.png  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 85.63573pt.
+<fig3.png, id=11, 149.8097pt x 100.12407pt>
+File: fig3.png Graphic file (type png)
+<use fig3.png>
+Package pdftex.def Info: fig3.png  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 95.08827pt.
+<fig4.png, id=12, 159.59625pt x 91.84312pt>
+File: fig4.png Graphic file (type png)
+<use fig4.png>
+Package pdftex.def Info: fig4.png  used on input line 58.
+(pdftex.def)             Requested size: 142.26378pt x 81.86903pt.
+ [2 <./fig2.png> <./fig3.png> <./fig4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 6
+7.
 (C:\Users\Dawid\AppData\Local\Programs\MiKTeX\tex/latex/polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 
-44.
+67.
 
 (C:\Users\Dawid\AppData\Local\Programs\MiKTeX\tex/latex/polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Trying to load font information for OMX+plex on input line 
-44.
+67.
 
 (C:\Users\Dawid\AppData\Local\Programs\MiKTeX\tex/latex/polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <12> on input line 44.
+(Font)              <12> on input line 67.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <8> on input line 44.
+(Font)              <8> on input line 67.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <6> on input line 44.
+(Font)              <6> on input line 67.
 
-[1
-
-{C:/Users/Dawid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./fig1.png>]
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--53
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
 
  []
 
-[2]
-<fig2.png, id=17, 891.33pt x 583.42969pt>
-File: fig2.png Graphic file (type png)
-<use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 71.
-(pdftex.def)             Requested size: 398.33858pt x 260.73373pt.
 
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+<fig5.png, id=21, 706.89093pt x 284.56313pt>
+File: fig5.png Graphic file (type png)
+<use fig5.png>
+Package pdftex.def Info: fig5.png  used on input line 107.
+(pdftex.def)             Requested size: 284.52756pt x 114.53967pt.
+[4 <./fig5.png>]
+<fig6.png, id=25, 675.27281pt x 322.20375pt>
+File: fig6.png Graphic file (type png)
+<use fig6.png>
+Package pdftex.def Info: fig6.png  used on input line 115.
+(pdftex.def)             Requested size: 284.52756pt x 135.7622pt.
+<fig7.png, id=26, 177.66376pt x 225.09094pt>
+File: fig7.png Graphic file (type png)
+<use fig7.png>
+Package pdftex.def Info: fig7.png  used on input line 122.
+(pdftex.def)             Requested size: 85.35826pt x 108.14545pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+<fig8.png, id=27, 912.40875pt x 606.01407pt>
+File: fig8.png Graphic file (type png)
+<use fig8.png>
+Package pdftex.def Info: fig8.png  used on input line 132.
+(pdftex.def)             Requested size: 398.33858pt x 264.56644pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 132--133
  [][] 
  []
 
+<fig9.png, id=28, 496.10344pt x 610.53094pt>
+File: fig9.png Graphic file (type png)
+<use fig9.png>
+Package pdftex.def Info: fig9.png  used on input line 136.
+(pdftex.def)             Requested size: 398.33858pt x 490.22339pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
-
- []
-
-[3 <./fig2.png>]
-<fig3.png, id=21, 743.02594pt x 617.30624pt>
-File: fig3.png Graphic file (type png)
-<use fig3.png>
-Package pdftex.def Info: fig3.png  used on input line 78.
-(pdftex.def)             Requested size: 398.33858pt x 330.94789pt.
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 78--79
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 136--137
  [][] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
-
- []
-
-[4 <./fig3.png>]
-<fig4.png, id=25, 781.41937pt x 581.17125pt>
-File: fig4.png Graphic file (type png)
-<use fig4.png>
-Package pdftex.def Info: fig4.png  used on input line 85.
-(pdftex.def)             Requested size: 398.33858pt x 296.26039pt.
-
-Overfull \hbox (8.33858pt too wide) in paragraph at lines 85--86
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 82--86
-
- []
-
-[5 <./fig4.png>] (lab2.aux) ) 
+[5 <./fig6.png> <./fig7.png>] [6 <./fig8.png>] [7 <./fig9.png>] (ćw3.aux) ) 
 Here is how much of TeX's memory you used:
- 3341 strings out of 475380
- 53611 string characters out of 2776772
- 394529 words of memory out of 3000000
- 24694 multiletter control sequences out of 15000+600000
+ 3376 strings out of 475380
+ 54046 string characters out of 2776772
+ 396529 words of memory out of 3000000
+ 24724 multiletter control sequences out of 15000+600000
  475616 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,7n,76p,340b,241s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Users/Dawid/AppData/Local/Programs/MiKTeX/font
-s/enc/dvips/pl/plms.enc}{C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc
-/dvips/pl/plrm.enc}{C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc/dvip
-s/pl/plmi.enc}{C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/
-plit.enc} <C:\Users\Dawid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
-00\tcrm1200.pk><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/pl/plbx12.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/pl/plmi12.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/pl/plr12.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-pl/plr17.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public/p
-l/plr8.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/
-plsy10.pfb><C:/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/
-plti12.pfb>
-Output written on lab2.pdf (5 pages, 415518 bytes).
+ 68i,7n,76p,416b,346s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:
+/Users/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plmi.enc}{C:/User
+s/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plit.enc} <C:\Users\Da
+wid\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk>{C:/Use
+rs/Dawid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/pl/plrm.enc}<C:/Users/Da
+wid/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plbx12.pfb><C:/Users/Da
+wid/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plmi12.pfb><C:/Users/Da
+wid/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr12.pfb><C:/Users/Daw
+id/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plr17.pfb><C:/Users/Dawi
+d/AppData/Local/Programs/MiKTeX/fonts/type1/public/pl/plti12.pfb>
+Output written on ćw3.pdf (7 pages, 367323 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
